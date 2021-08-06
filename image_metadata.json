@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "json-ld": {
+            "dcterms:type": [
+                {
+                    "@type": "skos:Concept",
+                    "skos:exactMatch": [
+                        "https://pid.phaidra.org/vocabulary/44TN-P1S0"
+                    ],
+                    "skos:prefLabel": [
+                        {
+                            "@language": "eng",
+                            "@value": "image"
+                        }
+                    ]
+                }
+            ],
+            "edm:hasType": [
+                {
+                    "@type": "skos:Concept",
+                    "skos:exactMatch": [
+                        "https://pid.phaidra.org/vocabulary/Q4Q5-3554"
+                    ],
+                    "skos:prefLabel": [
+                        {
+                            "@language": "eng",
+                            "@value": "postcard"
+                        }
+                    ]
+                }
+            ],
+            "dce:title": [
+                {
+                    "@type": "bf:Title",
+                    "bf:mainTitle": [
+                        {
+                            "@value": "Shapes",
+                            "@language": "eng"
+                        }
+                    ]
+                }
+            ],
+            "role:aut": [
+                {
+                    "@type": "schema:Person",
+                    "schema:familyName": [
+                        {
+                            "@value": "Max"
+                        }
+                    ],
+                    "schema:givenName": [
+                        {
+                            "@value": "Mustermann"
+                        }
+                    ]
+                }
+            ],
+            "dcterms:language": [
+                "deu"
+            ],
+            "ebucore:filename": [
+                "shapes.jpg"
+            ],
+            "ebucore:hasMimeType": [
+                "image/jpeg"
+            ],
+            "edm:rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ]
+        }
+    }
+}

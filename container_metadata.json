@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "json-ld": {
+      "container": {
+        "role:edt": [],
+        "dcterms:subject": [],
+        "dce:format": [],
+        "role:aut": [
+          {
+            "schema:name": [
+              {
+                "@value": "Universit\u00e4t f\u00fcr Angewandte Kunst Wien"
+              }
+            ],
+            "@type": "ids:uri",
+            "skos:exactMatch": [
+              {
+                "@type": "ids:uri",
+                "@value": "http://d-nb.info/gnd/5299671-2"
+              }
+            ]
+          }
+        ],
+        "dcterms:language": [
+          {
+            "@type": "skos:Concept",
+            "skos:prefLabel": [
+              {
+                "@value": "Deutsch",
+                "@language": "deu"
+              },
+              {
+                "@value": "German",
+                "@language": "eng"
+              }
+            ],
+            "skos:exactMatch": [
+              "http://base.uni-ak.ac.at/portfolio/languages/de"
+            ]
+          }
+        ],
+        "bf:note": [
+          {
+            "@type": "bf:Summary",
+            "skos:prefLabel": [
+              {
+                "@value": "Abstract",
+                "@language": "eng"
+              }
+            ]
+          },
+          {
+            "@type": "bf:Summary",
+            "skos:prefLabel": [
+              {
+                "@value": "Abstract",
+                "@language": "deu"
+              }
+            ]
+          }
+        ],
+        "role:pbl": [],
+        "edm:hasType": [
+          {
+            "@type": "skos:Concept",
+            "skos:prefLabel": [
+              {
+                "@value": "Bachelorarbeit",
+                "@language": "deu"
+              },
+              {
+                "@value": "bachelor thesis",
+                "@language": "eng"
+              }
+            ],
+            "skos:exactMatch": [
+              "http://base.uni-ak.ac.at/portfolio/taxonomy/bachelor_thesis"
+            ]
+          }
+        ],
+        "rdau:P60048": [],
+        "dce:title": [
+          {
+            "@type": "bf:Title",
+            "bf:mainTitle": [
+              {
+                "@value": "Die Auswirkungen des Ausbruchs von Covid-19",
+                "@language": "deu"
+              }
+            ]
+          }
+        ],
+        "dcterms:type": [
+          {
+            "@type": "skos:Concept",
+            "skos:exactMatch": [
+              "https://pid.phaidra.org/vocabulary/8MY0-BQDQ"
+            ],
+            "skos:prefLabel": [
+              {
+                "@language": "eng",
+                "@value": "container"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
